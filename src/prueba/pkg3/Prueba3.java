@@ -19,6 +19,7 @@ public class Prueba3 {
         
         System.out.println("Hola mundo");
         System.out.println("Haciendo un push");
+        System.out.println("Haciendo un pull");
     }
     
 }
