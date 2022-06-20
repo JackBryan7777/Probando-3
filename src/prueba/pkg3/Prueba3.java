@@ -21,6 +21,8 @@ public class Prueba3 {
         System.out.println("Haciendo un push");
         System.out.println("Haciendo un pull");
         System.out.println("Haciendo un push de otra compu");
+         System.out.println("Haciendo un pull desde otra compu");
+        
     }
     
 }
